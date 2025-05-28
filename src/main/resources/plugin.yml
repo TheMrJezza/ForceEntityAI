@@ -1,0 +1,5 @@
+name: 'ForceEntityAI'
+main: 'dev.themrjezza.force_entity_ai.ForceEntityAI'
+version: '1.0.0.0'
+api-version: '1.21.5'
+load: STARTUP
